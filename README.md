@@ -33,7 +33,7 @@ This structure closely reflects real-world e-commerce catalog data.
 
 🧾 Schema & Columns
 
-> Column names were standardized and renamed where necessary to improve clarity and maintain database best practices (for example, id was renamed to sku_id).
+> Column names were standardized and renamed where necessary to improve clarity and maintain database best practices.
 
 
 
@@ -179,3 +179,14 @@ Business analysis
 
 
 4. Review results using MySQL Workbench or any compatible SQL client
+   
+
+
+---
+
+License
+
+This project is licensed under the MIT License.
+
+
+---
