@@ -162,7 +162,7 @@ Inventory weight distribution varies significantly, impacting storage and logist
 
 
 
-git clone <your-repo-link>
+git clone : https://github.com/Yweb20/Zepto-Inventory-SQL-Analysis)
 
 2. Import the CSV file into MySQL as table zepto_v2
 
