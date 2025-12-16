@@ -39,7 +39,7 @@ This structure closely reflects real-world e-commerce catalog data.
 
 Column Name	Description
 
-sku_id	Unique identifier for each product SKU
+sku_id	Unique identifier for each product SKU// 
 name	Product name
 category	Product category
 mrp	Maximum Retail Price (₹)
