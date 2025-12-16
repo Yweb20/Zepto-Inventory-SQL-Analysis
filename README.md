@@ -39,15 +39,24 @@ This structure closely reflects real-world e-commerce catalog data.
 
 Column Name	Description
 
-sku_id	Unique identifier for each product SKU// 
+sku_id	Unique identifier for each product SKU
+
 name	Product name
+
 category	Product category
+
 mrp	Maximum Retail Price (₹)
+
 discount_percent	Discount applied on MRP
+
 discounted_selling_price	Final selling price after discount (₹)
+
 available_quantity	Units available in inventory
+
 weight_in_gms	Product weight in grams
+
 out_of_stock	Stock availability flag
+
 quantity	Units per package
 
 
