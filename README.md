@@ -1,6 +1,6 @@
 ![image alt](https://github.com/Yweb20/Zepto-Inventory-SQL-Analysis/blob/2048ef730ba6ee07ec0ae598c74599452e774ab3/Zepto.jpg)
 
-🛒 Zepto Inventory SQL Data Analysis Project (MySQL Version)
+🛒 Zepto Inventory SQL Data Analysis Project
 
 📌 Overview
 
